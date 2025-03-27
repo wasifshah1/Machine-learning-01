@@ -107,6 +107,6 @@ Setting `probability=True` in `SVC` enables probability outputs, which are essen
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mushroom-svm-classification.git
+git clone https://github.com/wasifshah1/mushroom-svm-classification.git
 cd mushroom-svm-classification
 
